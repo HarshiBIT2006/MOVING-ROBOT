@@ -146,4 +146,3 @@ arduino-direction-control-robot/
 Author
 Aditi Bhatnagar
 
-[Your Name]
